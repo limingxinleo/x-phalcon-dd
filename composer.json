@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/dd",
+    "name": "limingxinleo/x-phalcon-dd",
     "type": "library",
     "description": "This package will add the `dd` and `dump` helpers to your Phalcon application.",
     "keywords": [
@@ -19,8 +19,8 @@
             "homepage": "http://phalconphp.com/en/team"
         },
         {
-            "name": "Contributors",
-            "homepage": "https://github.com/phalcon/dd/graphs/contributors"
+            "name": "limx",
+            "homepage": "https://github.com/limingxinleo"
         }
     ],
     "require": {
